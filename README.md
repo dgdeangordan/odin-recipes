@@ -1,1 +1,2 @@
 # odin-recipes
+This is a basic recipe website exercise from the odin project. This assignment will hone the (very little) skills I've acquired up to this point. Which include: making lists, paragraphs and adding photos and links in html; modifying files in a text editor; and using the command terminal to make git commits.
